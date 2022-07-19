@@ -4,7 +4,15 @@ DIY Git in Python
 
 ## Installation
 
-Coming soon.
+```
+python3 setup.py develop --user
+```
+
+## Usage
+
+```
+ugit
+```
 
 ## Acknowledgements
 
